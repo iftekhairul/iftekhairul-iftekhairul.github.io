@@ -22,10 +22,10 @@ role: Graduate Research Assistant
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Georgia State University
-    url: https://www.stanford.edu/
+    url: https://www.gsu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Graph Machine Learning, Deep learning, Graph Neural Network, and Drug Discovery. 
+bio: Hi, I’m Muhammad Ifte Khairul Islam. I recently completed my Ph.D. in Computer Science at Georgia State University, where I worked on graph neural networks, graph compression, and contrastive learning. My research explores how advanced machine learning techniques can be applied to areas like bioinformatics, healthcare, and social networks. I earned my B.Sc. in Computer Science and Engineering from Daffodil International University, Bangladesh. Beyond research, I enjoy teaching, mentoring, and building practical AI solutions that connect theory to real-world problems. I’m currently looking for opportunities in machine learning, data science, or teaching where I can apply my skills to meaningful challenges. 
 
 # Interests to show in About widget
 interests:
@@ -105,10 +105,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/iftekhairul
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ifte-islam-909/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I’m Muhammad Ifte Khairul Islam. I recently completed my Ph.D. in Computer Science at Georgia State University, where I worked on graph neural networks, graph compression, and contrastive learning. My research explores how advanced machine learning techniques can be applied to areas like bioinformatics, healthcare, and social networks.
+
+I earned my B.Sc. in Computer Science and Engineering from Daffodil International University, Bangladesh. Beyond research, I enjoy teaching, mentoring, and building practical AI solutions that connect theory to real-world problems. I’m currently looking for opportunities in machine learning, data science, or teaching where I can apply my skills to meaningful challenges.
 {style="text-align: justify;"}
